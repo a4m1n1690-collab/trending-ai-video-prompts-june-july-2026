@@ -1,4 +1,4 @@
-# Trending AI ASMR Video Prompts: June–July 2026
+# Trending AI ASMR Video Prompts: 2026
 
 A curated collection of trending AI-generated ASMR video prompts, examples, satisfying visual styles, and generation ideas from June–July 2026.
 
