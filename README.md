@@ -1,15 +1,16 @@
-# Trending AI Video Prompts: June–July 2026
+# Trending AI ASMR Video Prompts: June–July 2026
 
 A curated collection of trending AI-generated video prompts, examples, styles, and generation ideas from June–July 2026.
 
 ## Featured Categories
 
-- Satisfying AI-generated videos
-- Surreal food videos
-- AI animal stories
-- Miniature worlds
-- AI transformations
-- Viral AI video formats
+- Slime Poking ASMR
+- Glass Fruit Cutting ASMR
+- Kinetic Sand Cutting ASMR
+- Pastel Soap Cutting ASMR
+- Metallic Pigment Blending ASMR
+- Crystal Bread Cutting ASMR
+- Jelly Cube Hydraulic Press ASMR
 
 
 
@@ -53,7 +54,6 @@ Audio is the main focus: realistic hard-glass cutting sounds, sharp metal blade 
 
 [Generate This AI Video with APIXO →](https://apixo.ai/models)
 
-## 3.Jelly and Gummy Cutting ASMR
 ## 3. Translucent Gummy Candy Cutting ASMR
 
 A satisfying AI-generated ASMR video featuring a large translucent rainbow gummy candy being slowly sliced into soft, elastic pieces.
