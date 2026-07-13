@@ -1,16 +1,22 @@
 # Trending AI ASMR Video Prompts: June–July 2026
 
-A curated collection of trending AI-generated video prompts, examples, styles, and generation ideas from June–July 2026.
+A curated collection of trending AI-generated ASMR video prompts, examples, satisfying visual styles, and generation ideas from June–July 2026.
 
 ## Featured Categories
 
-- Slime Poking ASMR
-- Glass Fruit Cutting ASMR
-- Kinetic Sand Cutting ASMR
-- Pastel Soap Cutting ASMR
-- Metallic Pigment Blending ASMR
-- Crystal Bread Cutting ASMR
-- Jelly Cube Hydraulic Press ASMR
+- [Slime Poking ASMR](#1-green-slime-poking-asmr)
+- [Glass Fruit Cutting ASMR](#2-glass-strawberry-cutting-asmr)
+- [Gummy Candy Cutting ASMR](#3-translucent-gummy-candy-cutting-asmr)
+- [Kinetic Sand Cutting ASMR](#4-blue-kinetic-sand-cutting-asmr)
+- [Soap Cutting ASMR](#5-single-cut-pastel-soap-asmr)
+- [Metallic Pigment Blending ASMR](#6-metallic-pigment-blending-asmr)
+- [Crystal Material Cutting ASMR](#7-crystal-bread-cutting-asmr)
+- [Honey Jelly Keyboard ASMR](#8-honey-jelly-keyboard-asmr)
+- [Hydraulic Press ASMR](#9-jelly-cube-hydraulic-press-asmr)
+
+[Explore AI Video Models on APIXO →](https://apixo.ai/models)
+
+---
 
 
 
