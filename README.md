@@ -4,8 +4,7 @@ A curated collection of trending AI-generated video prompts, examples, styles, a
 
 ## Featured Categories
 
-- AI slime videos
-- Glass fruit cutting
+- Satisfying AI-generated videos
 - Surreal food videos
 - AI animal stories
 - Miniature worlds
@@ -117,6 +116,10 @@ layered sand, stacked layers, laminated texture, visible sheets, horizontal stri
 A satisfying AI-generated ASMR video featuring a smooth pastel soap bar being slowly shaved into thin, delicate curls.
 
 
+https://github.com/user-attachments/assets/0ef9eb64-a1bd-406d-895f-da4d1c669109
+
+
+
 
 ### Prompt
 
@@ -144,5 +147,117 @@ layered soap, sponge texture, foam texture, rubber texture, jelly texture, wet s
 
 [Try This Prompt with APIXO →](https://apixo.ai/models)
 
+## 6. Metallic Pigment Blending ASMR
+
+A satisfying AI-generated ASMR video featuring two soft metallic pigment blocks being blended into one smooth, uniform metallic paste.
+
+
+
+https://github.com/user-attachments/assets/ea945d61-d17d-44ab-b5b0-cba7497306f7
+
+
+
+### Prompt
+
+```text
+A viral satisfying AI ASMR video featuring exactly two soft rectangular metallic pigment blocks placed side by side on a clean glossy white mixing surface.
+
+The left block is reflective silver, and the right block is metallic rose gold. Both blocks have a smooth, dense, clay-like pigment texture and clearly defined rectangular shapes.
+
+A wide stainless-steel palette knife slowly presses down on both metallic pigment blocks and drags them forward across the surface in one smooth motion. The soft blocks flatten, stretch, and begin to merge under the scraper.
+
+The palette knife makes two or three slow, controlled scraping passes over the pigment. With each pass, the silver and rose-gold colors blend more evenly. By the end of the video, the two original blocks are completely transformed into one smooth, uniform rose-gold metallic paste with a glossy reflective surface.
+
+The final mixture has one consistent metallic color throughout, with no separate blocks, no visible silver streaks, no unmixed sections, and no remaining rectangular shapes. The paste is spread into a smooth circular layer with subtle scraper lines on the surface.
+
+Macro close-up, fixed overhead camera, photorealistic metallic pigment texture, highly reflective surface, soft bright studio lighting, clean luxury beauty-product aesthetic, slow controlled movement, satisfying visual transformation, vertical 9:16 video.
+
+Audio is the main focus: dense palette-knife scraping, soft metallic paste smearing, smooth pressing sounds, gentle sticky folding, and subtle contact between the steel scraper and the mixing surface. No music, no voice.
+```
+
+### Negative Prompt
+
+```text
+hard metal blocks, rigid solid metal, unbreakable objects, liquid paint, watery texture, pouring liquid, mixing bowl, stirring rod, separate blocks remaining at the end, unmixed colors, silver streaks at the end, patchy mixture, multiple random colors, muddy brown color, excessive liquid, violent splashing, pigment flying away, scraper passing through the material, duplicated scraper, floating scraper, sudden object changes, extra tools, deformed hands, camera shake, flickering, text, logo, watermark
+```
+
+### Generate This Video
+
+[Try This Prompt with APIXO →](https://apixo.ai/models)
+
+## 7. Crystal Bread Cutting ASMR
+
+A surreal AI-generated ASMR video featuring a loaf of bread made entirely from transparent blue ice crystal.
+
+
+https://github.com/user-attachments/assets/6f983be6-2efb-428a-a4e1-ec81afa44498
+
+
+
+### Prompt
+
+```text
+
+A viral satisfying AI ASMR video featuring a small loaf of bread made entirely from solid transparent blue ice crystal. The crystal loaf is placed on a clean white marble cutting board.
+
+A polished diamond-edged blade slowly makes one controlled downward cut through the center of the loaf. The outside resembles frosted crystal, while the homogeneous interior is made from clear blue ice with tiny frozen bubbles suspended inside.
+
+The blade creates a realistic gritty ice-cutting sound as it moves through the solid material. When the cut is complete, one thick crystal slice separates with a short brittle crack and gently slides onto the marble surface. A small amount of fine ice dust falls along the cut edge.
+
+Macro close-up, photorealistic ice-crystal texture, realistic reflections and refractions, cool cinematic lighting, fixed camera, shallow depth of field, slow precise movement, clean minimal background, vertical 9:16 video.
+
+Audio is the main focus: realistic solid-ice cutting, gritty blade friction, dense frozen scraping, a short brittle crack, fine ice particles falling, and a heavy crystal tap on marble. No magical chimes, no bell sounds, no music, no voice.
+
+```
+
+### Negative Prompt
+
+```text
+
+soft bread interior, edible bread texture, cake layers, glass chimes, magical sparkles, glowing fantasy particles, melting ice, excessive shattering, explosive fragments, deformed knife, camera shake, flickering, text, logo, watermark
+
+```
+
+### Generate This Video
+
+[Try This Prompt with APIXO →](https://apixo.ai/models)
+
+## 9. Jelly Cube Hydraulic Press ASMR
+
+A satisfying AI-generated ASMR video featuring translucent jelly cubes being slowly compressed by a hydraulic press.
+
+
+
+https://github.com/user-attachments/assets/a4a86dcb-6d30-41e2-9ca1-7d827f987a05
+
+
+
+### Prompt
+
+```text
+
+A viral satisfying AI ASMR video featuring three translucent jelly cubes arranged in a straight line on a clean metal platform beneath an industrial hydraulic press.
+
+The flat metal press slowly lowers onto the first jelly cube. The cube gradually compresses downward, expands evenly to the sides, and forms tiny air bubbles inside. The pressure continues until the jelly becomes a smooth flat disc without splashing or breaking into fragments.
+
+The press then slowly rises, leaving the compressed jelly spread across the platform. The movement is controlled, symmetrical, and physically realistic. The other cubes remain stationary in the background.
+
+Macro close-up, photorealistic translucent jelly texture, realistic pressure deformation, fixed camera, clean industrial environment, soft studio lighting, smooth slow motion, vertical 9:16 video.
+
+Audio is the main focus: low hydraulic machine movement, deep soft squishing, dense jelly compression, tiny wet pops, and a subtle sticky release when the press rises. No explosions, no glass breaking, no music, no voice.
+
+```
+
+### Negative Prompt
+
+```text
+
+violent explosion, liquid splashing, hard objects, glass fragments, jelly disappearing, press passing through object, asymmetrical deformation, excessive debris, damaged machine, sudden motion, camera shake, flickering, text, logo, watermark
+
+```
+
+### Generate This Video
+
+[Try This Prompt with APIXO →](https://apixo.ai/models)
 
 
